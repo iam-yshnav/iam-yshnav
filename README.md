@@ -22,6 +22,9 @@
 
 
 ### Connect with me on social media:
+
+
+[![am](https://img.shields.io/badge/%40Website-blue?style=flat-square&logo=website&logoColor=white&link=https://https://yshnav.mecodee.com/)](https://https://yshnav.mecodee.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-%40iam_yshnav_-blue?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/iam_yshnav_/)](https://instagram.com/iam_yshnav_/)
 [![](https://img.shields.io/badge/.-%40_Yshna_v-orange?style=flat-square&logo=X&logoColor=white&link=https://twitter.com/_Yshna_v)](https://twitter.com/_Yshna_v)
 [![Medium](https://img.shields.io/badge/Medium-%40iam_yshnav_-green?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@iam_yshnav_)](https://medium.com/@iam_yshnav_)
