@@ -7,7 +7,7 @@
 
 ### 👨‍💻 | Tech Enthusiast | Code Artisan | Crypto Enthusiast | Flutter Developer | Lifelong Learner 🚀
 
-<b>As a passionate 3rd-year B.Tech CSE cybersecurity student, I thrive on the thrill of coding, exploring new skills, and diving deep into the crypto world. My journey is all about crafting innovative apps with Flutter, learning new programming languages, and constantly evolving in the ever-changing tech landscape. Join me on this adventure of digital craftsmanship! 💡
+<b>As a passionate 4th-year B.Tech CSE cybersecurity student, I thrive on the thrill of coding, exploring new skills, and diving deep into the crypto world. Join me on this adventure of digital craftsmanship! 💡
 
 <p align="left">
    <a href="https://github.com/iam-yshnav?tab=followers">
