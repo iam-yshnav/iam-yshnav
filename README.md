@@ -1,10 +1,10 @@
 <!-- ░▒▓ f/society // Vyshnav Vinod ▓▒░ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8B0000&height=220&section=header&text=Hello,%20friend.&fontColor=FF0000&fontSize=55&animation=twinkling&fontAlignY=40&desc=f/society%20//%20Vyshnav%20Vinod&descAlignY=62&descSize=18&descColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,100:8B0000&height=200&section=header&text=VYSHNAV%20VINOD&fontColor=FF0000&fontSize=48&animation=fadeIn&fontAlignY=42&desc=root@vyshnav:~%23%20./security_analyst%20--defend%20--hunt&descAlignY=64&descSize=16&descColor=ffffff" width="100%"/>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=FF0000&center=true&vCenter=true&width=720&lines=root%40vyshnav%3A~%23+whoami;Junior+Security+Analyst;SOC+%2F+Blue+Team+%7C+VAPT+%7C+Threat+Hunting;%22Our+democracy+has+been+hacked.%22" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=FF0000&center=true&vCenter=true&width=720&lines=root%40vyshnav%3A~%23+whoami;Junior+Security+Analyst;SOC+%2F+Blue+Team+%7C+VAPT+%7C+Threat+Hunting;defend+%7C+detect+%7C+respond" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -18,42 +18,32 @@
 
 ---
 
-<table>
-<tr>
-<td width="62%" valign="top">
-
 ```bash
-root@vyshnav:~# whoami
-> Vyshnav Vinod — Junior Security Analyst
+┌──(root㉿vyshnav)-[~]
+└─$ whoami
+ > Vyshnav Vinod — Junior Security Analyst
 
-root@vyshnav:~# cat ./profile.txt
-> SOC / blue-team ops: alert triage,
-  incident investigation, VAPT.
-> B.Tech CSE (Cybersecurity), KTU grad.
-> Based in Kochi, India.
+┌──(root㉿vyshnav)-[~]
+└─$ cat ./profile.txt
+ > SOC / blue-team ops · alert triage · incident investigation · VAPT
+ > B.Tech CSE (Cybersecurity), KTU grad · based in Kochi, India
 
-root@vyshnav:~# cat ./arsenal.txt
-> Burp Suite · Wireshark · Nmap
-> Metasploit · Splunk · Wazuh
-> MITRE ATT&CK · Incident Response
+┌──(root㉿vyshnav)-[~]
+└─$ cat ./arsenal.txt
+ > Burp Suite · Wireshark · Nmap · Metasploit · Splunk · Wazuh
+ > MITRE ATT&CK · Incident Response · Vulnerability Assessment
 
-root@vyshnav:~# ./access --grant
-> [+] access granted. welcome.
+┌──(root㉿vyshnav)-[~]
+└─$ ./access --grant
+ > [+] access granted. welcome, friend.
 ```
 
-</td>
-<td width="38%" align="center" valign="top">
-
-<img src="https://avatars.githubusercontent.com/u/105802389?v=4" width="210" alt="Vyshnav Vinod"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/STATUS-ONLINE-FF0000?style=flat-square&labelColor=000000" alt="status"/>
-<img src="https://img.shields.io/badge/LOCATION-KOCHI-8B0000?style=flat-square&labelColor=000000" alt="location"/>
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-FF0000?style=flat-square&labelColor=000000" alt="status"/>
+  <img src="https://img.shields.io/badge/ROLE-JR_SECURITY_ANALYST-8B0000?style=flat-square&labelColor=000000" alt="role"/>
+  <img src="https://img.shields.io/badge/LOCATION-KOCHI,_IN-8B0000?style=flat-square&labelColor=000000" alt="location"/>
+  <img src="https://img.shields.io/badge/OPEN_TO-SOC_%2F_VAPT_ROLES-FF0000?style=flat-square&labelColor=000000" alt="open to work"/>
+</p>
 
 ---
 
