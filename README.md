@@ -115,6 +115,24 @@ root@vyshnav:~# ./access --grant
 
 ---
 
+### `>` Rank
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iam-yshnav&theme=dark_lover&no-frame=true&column=7&margin-w=8&margin-h=8" alt="Trophies"/>
+</p>
+
+---
+
+### `>` Latest Intel &nbsp;`// ./medium --tail`
+
+<!-- BLOG-POST-LIST:START -->
+- [Turning My Android Phone into an AI Automation Server (OpenClaw + Termux Guide)](https://medium.com/@iam_yshnav_/turning-my-android-phone-into-an-ai-automation-server-openclaw-termux-guide-61e2fc9921d5)
+<!-- BLOG-POST-LIST:END -->
+
+<p align="right"><a href="https://medium.com/@iam_yshnav_"><code>» read more on medium</code></a></p>
+
+---
+
 <div align="center">
   <h3>🐍 <code>./snake --consume ./contributions</code></h3>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/iam-yshnav/iam-yshnav/output/github-contribution-grid-snake.svg" />
