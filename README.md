@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yshnav/"><img src="https://img.shields.io/badge/LinkedIn-8B0000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://vyshnav.tenzvo.com/"><img src="https://img.shields.io/badge/Portfolio-B22222?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://vyshnv.me"><img src="https://img.shields.io/badge/Portfolio-B22222?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/></a>
   <a href="https://medium.com/@iam_yshnav_"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=FF0000" alt="Medium"/></a>
   <a href="https://twitter.com/_Yshna_v"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=FF0000" alt="X"/></a>
   <img src="https://komarev.com/ghpvc/?username=iam-yshnav&color=FF0000&style=for-the-badge&label=TRACES" alt="Profile Views"/>
