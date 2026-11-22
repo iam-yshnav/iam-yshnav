@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=FF0000&center=true&vCenter=true&width=720&lines=root%40vyshnav%3A~%23+whoami;Junior+Security+Analyst;SOC+%2F+Blue+Team+%7C+VAPT+%7C+Threat+Hunting;defend+%7C+detect+%7C+respond" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=FF0000&center=true&vCenter=true&width=720&lines=root%40vyshnav%3A~%23+whoami;Junior+Security+Analyst;SOC+%2F+Blue+Team+%2B+VAPT;red+%26+blue+%7C+offensive+%2B+defensive;breaking+things+to+defend+them" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -26,6 +26,7 @@
 ┌──(root㉿vyshnav)-[~]
 └─$ cat ./profile.txt
  > SOC / blue-team ops · alert triage · incident investigation · VAPT
+ > offensive at heart: pentesting · red-team recon · breaking to defend
  > B.Tech CSE (Cybersecurity), KTU grad · based in Kochi, India
 
 ┌──(root㉿vyshnav)-[~]
