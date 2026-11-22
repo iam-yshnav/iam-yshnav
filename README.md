@@ -1,6 +1,6 @@
 <!-- ░▒▓ f/society // Vyshnav Vinod ▓▒░ -->
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,100:8B0000&height=200&section=header&text=VYSHNAV%20VINOD&fontColor=FF0000&fontSize=48&animation=fadeIn&fontAlignY=42&desc=root@vyshnav:~%23%20./security_analyst%20--defend%20--hunt&descAlignY=64&descSize=16&descColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:FF0000,100:8B0000&height=200&section=header&text=VYSHNAV%20VINOD&fontColor=ffffff&fontSize=48&animation=twinkling&fontAlignY=40&desc=root@vyshnav:~%23%20./security_analyst%20--defend%20--hunt&descAlignY=60&descSize=16&descColor=ffffff" width="100%"/>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
