@@ -112,8 +112,11 @@
 
 ### `>` Latest Intel &nbsp;`// ./medium --tail`
 
-<!-- BLOG-POST-LIST:START -->
-- [Turning My Android Phone into an AI Automation Server (OpenClaw + Termux Guide)](https://medium.com/@iam_yshnav_/turning-my-android-phone-into-an-ai-automation-server-openclaw-termux-guide-61e2fc9921d5)
+<!-- BLOG-POST-LIST:START -->- [Turning My Android Phone into an AI Automation Server &lpar;OpenClaw + Termux Guide&rpar;](https://medium.com/@iam_yshnav_/turning-my-android-phone-into-an-ai-automation-server-openclaw-termux-guide-61e2fc9921d5?source=rss-e5c4f4093c4------2)
+- [Blue Machine — TryHackMe Full Exploit Walkthrough](https://medium.com/@iam_yshnav_/blue-machine-tryhackme-full-exploit-walkthrough-402b38175074?source=rss-e5c4f4093c4------2)
+- [Basic Pentesting-1 &lpar;VulnHub&rpar; — Step-by-Step Walkthrough](https://medium.com/@iam_yshnav_/basic-pentesting-1-vulnhub-step-by-step-walkthrough-2ff8010134a1?source=rss-e5c4f4093c4------2)
+- [Ice Machine — Full Exploit Walkthrough &lpar;Step-by-Step&rpar;](https://medium.com/@iam_yshnav_/ice-machine-full-exploit-walkthrough-step-by-step-c0f578d97fe5?source=rss-e5c4f4093c4------2)
+- [Brooklyn Nine-Nine &lpar;TryHackMe&rpar; — Step-by-Step CTF Walkthrough](https://medium.com/@iam_yshnav_/brooklyn-nine-nine-tryhackme-step-by-step-ctf-walkthrough-5db2b0544f2e?source=rss-e5c4f4093c4------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://medium.com/@iam_yshnav_"><code>» read more on medium</code></a></p>
